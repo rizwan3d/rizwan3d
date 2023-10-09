@@ -34,11 +34,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
-<!-- YOUTUBE:START -->- [NET 6 Web API &amp; Entity Framework - Chapter 1 &lpar;CRUD, Repository Pattern, DI, SQL Server &amp; more&rpar; - May 26, 2023](https://www.youtube.com/watch?v=qIf2qtsdTHw)>
-- [Work Form Home #csharp #.net #dotnet #visualstudio - May 24, 2023](https://www.youtube.com/watch?v=1lxaIDhs9iE)>
-- [C# .Net Core CRUD API Project Setup Part 1 - May 24, 2023](https://www.youtube.com/watch?v=mhReLee0LQU)>
-- [Unreal Engine 5.1 Urdu/Hindi How to Make AAA Game - Mar 22, 2023](https://www.youtube.com/watch?v=UMdd9psaU2I)>
-- [Laravel 9 CRUD with Login and Registration System HTML/Bootstap/PHP in Urdu/Hindi - Apr 3, 2022](https://www.youtube.com/watch?v=COxK9xyKOls)>
+<!-- YOUTUBE:START -->- [NET 6 Web API &amp; Entity Framework - Chapter 1 &lpar;CRUD, Repository Pattern, DI, SQL Server &amp; more&rpar; - May 26, 2023](https://www.youtube.com/watch?v=qIf2qtsdTHw)
+- [Work Form Home #csharp #.net #dotnet #visualstudio - May 24, 2023](https://www.youtube.com/watch?v=1lxaIDhs9iE)
+- [C# .Net Core CRUD API Project Setup Part 1 - May 24, 2023](https://www.youtube.com/watch?v=mhReLee0LQU)
+- [Unreal Engine 5.1 Urdu/Hindi How to Make AAA Game - Mar 22, 2023](https://www.youtube.com/watch?v=UMdd9psaU2I)
+- [Laravel 9 CRUD with Login and Registration System HTML/Bootstap/PHP in Urdu/Hindi - Apr 3, 2022](https://www.youtube.com/watch?v=COxK9xyKOls)
 <!-- YOUTUBE:END -->
 
 
