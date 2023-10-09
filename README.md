@@ -26,6 +26,11 @@
 - [Learning RISC-V Assembly Language by Building an Assembler in C#](https://medium.com/@rizwan3d/learning-risc-v-assembly-language-by-building-an-assembler-in-c-cc991fd2831e?source=rss-685d52defe52------2)
 - [How to Make Commit Messages  Fun with Gitmoji](https://medium.com/@rizwan3d/how-to-make-commit-messages-fun-with-gitmoji-825ee9659f83?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 5 &lpar;Scaling- Apache Kafka&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-5-scaling-apache-kafka-5f1f4cb786cd?source=rss-685d52defe52------2)
+- [WebSocket for real-time communication in C# and Typescript — Part 4 &lpar;Security&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-4-security-8fe63b0763a8?source=rss-685d52defe52------2)
+- [WebSocket for real-time communication in C# and Typescript — Part 3 &lpar;Data Serialization&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-3-data-serialization-c4ada68864e7?source=rss-685d52defe52------2)
+- [WebSocket for real-time communication in C# and Typescript — Part 2 &lpar;Authentication&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-2-authentication-b719981ba14f?source=rss-685d52defe52------2)
+- [WebSocket for real-time communication in C# and Typescript — Part 1 &lpar;Connection&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-1-connection-51e17c9090ca?source=rss-685d52defe52------2)
+- [Analyse of Game Design of Valorant and compared to CS GO](https://medium.com/@rizwan3d/analyse-of-game-design-of-valorant-and-compared-to-cs-go-c1286f8127eb?source=rss-685d52defe52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
