@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RISC-V: Pioneering Windows Assembly — A New Era in Computing](https://medium.com/@rizwan3d/risc-v-pioneering-windows-assembly-a-new-era-in-computing-edb772b52675?source=rss-685d52defe52------2)
+- [How to Simplify Data Validation in PHP With ValidationMyPhp](https://medium.com/@rizwan3d/how-to-simplify-data-validation-in-php-with-validationmyphp-b7455f7ed4e2?source=rss-685d52defe52------2)
+- [Learning RISC-V Assembly Language by Building an Assembler in C#](https://medium.com/@rizwan3d/learning-risc-v-assembly-language-by-building-an-assembler-in-c-cc991fd2831e?source=rss-685d52defe52------2)
+- [How to Make Commit Messages  Fun with Gitmoji](https://medium.com/@rizwan3d/how-to-make-commit-messages-fun-with-gitmoji-825ee9659f83?source=rss-685d52defe52------2)
+- [WebSocket for real-time communication in C# and Typescript — Part 5 &lpar;Scaling- Apache Kafka&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-5-scaling-apache-kafka-5f1f4cb786cd?source=rss-685d52defe52------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
