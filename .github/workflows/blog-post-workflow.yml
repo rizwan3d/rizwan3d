@@ -18,8 +18,6 @@ jobs:
         with:
           remove_duplicates: true
           feed_list: "https://medium.com/feed/@rizwan3d"
-          committer_email: "allgame45@hotmail.com"
-          date_format: "mmm d, yyyy"
       - name: Pull in youtube videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
