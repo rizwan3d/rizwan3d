@@ -20,11 +20,12 @@
 - 📫 How to reach me **allgame45@hotmail.com**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --><a href="https://www.youtube.com/watch?v=qIf2qtsdTHw">NET 6 Web API &amp; Entity Framework - Chapter 1 &lpar;CRUD, Repository Pattern, DI, SQL Server &amp; more&rpar; - May 26, 2023 </a> 
-<a href="https://www.youtube.com/watch?v=1lxaIDhs9iE">Work Form Home #csharp #.net #dotnet #visualstudio - May 24, 2023 </a> 
-<a href="https://www.youtube.com/watch?v=mhReLee0LQU">C# .Net Core CRUD API Project Setup Part 1 - May 24, 2023 </a> 
-<a href="https://www.youtube.com/watch?v=UMdd9psaU2I">Unreal Engine 5.1 Urdu/Hindi How to Make AAA Game - Mar 22, 2023 </a> 
-<a href="https://www.youtube.com/watch?v=COxK9xyKOls">Laravel 9 CRUD with Login and Registration System HTML/Bootstap/PHP in Urdu/Hindi - Apr 3, 2022 </a> 
+<!-- BLOG-POST-LIST:START -->
+- [RISC-V: Pioneering Windows Assembly — A New Era in Computing](https://medium.com/@rizwan3d/risc-v-pioneering-windows-assembly-a-new-era-in-computing-edb772b52675?source=rss-685d52defe52------2)
+- [How to Simplify Data Validation in PHP With ValidationMyPhp](https://medium.com/@rizwan3d/how-to-simplify-data-validation-in-php-with-validationmyphp-b7455f7ed4e2?source=rss-685d52defe52------2)
+- [Learning RISC-V Assembly Language by Building an Assembler in C#](https://medium.com/@rizwan3d/learning-risc-v-assembly-language-by-building-an-assembler-in-c-cc991fd2831e?source=rss-685d52defe52------2)
+- [How to Make Commit Messages  Fun with Gitmoji](https://medium.com/@rizwan3d/how-to-make-commit-messages-fun-with-gitmoji-825ee9659f83?source=rss-685d52defe52------2)
+- [WebSocket for real-time communication in C# and Typescript — Part 5 &lpar;Scaling- Apache Kafka&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-5-scaling-apache-kafka-5f1f4cb786cd?source=rss-685d52defe52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
