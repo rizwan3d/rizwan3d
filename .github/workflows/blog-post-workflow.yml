@@ -21,7 +21,7 @@ jobs:
           committer_email: "allgame45@hotmail.com"
           date_format: "mmm d, yyyy"
       - name: Pull in youtube videos
-      - uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCSQJpRcHLSVE1CpwMJ0xmew"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
