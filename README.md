@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://medium.com/@rizwan3d/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv-8698fd1024c9?source=rss-685d52defe52------2)
 - [RISC-V: Pioneering Windows Assembly — A New Era in Computing](https://medium.com/@rizwan3d/risc-v-pioneering-windows-assembly-a-new-era-in-computing-edb772b52675?source=rss-685d52defe52------2)
 - [How to Simplify Data Validation in PHP With ValidationMyPhp](https://medium.com/@rizwan3d/how-to-simplify-data-validation-in-php-with-validationmyphp-b7455f7ed4e2?source=rss-685d52defe52------2)
 - [Learning RISC-V Assembly Language by Building an Assembler in C#](https://medium.com/@rizwan3d/learning-risc-v-assembly-language-by-building-an-assembler-in-c-cc991fd2831e?source=rss-685d52defe52------2)
@@ -30,7 +31,6 @@
 - [WebSocket for real-time communication in C# and Typescript — Part 3 &lpar;Data Serialization&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-3-data-serialization-c4ada68864e7?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 2 &lpar;Authentication&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-2-authentication-b719981ba14f?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 1 &lpar;Connection&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-1-connection-51e17c9090ca?source=rss-685d52defe52------2)
-- [Analyse of Game Design of Valorant and compared to CS GO](https://medium.com/@rizwan3d/analyse-of-game-design-of-valorant-and-compared-to-cs-go-c1286f8127eb?source=rss-685d52defe52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
