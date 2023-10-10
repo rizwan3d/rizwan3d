@@ -5,13 +5,13 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=rizwan3d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on **RISC-V**
+- 🔭 I’m currently working on [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
 
 - 🌱 I’m currently learning **RISC-V, compilers, assemblers, and virtual machines.**
 
 - 👯 I’m looking to collaborate on **esearch papers and projects centered around compilers, assemblers, and virtual machines.**
 
-- 🤝 I’m looking for help with **SharpRISCV**
+- 🤝 I’m looking for help with [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
 
 - 📝 I regularly write articles on [https://hackernoon.com/u/rizwan3d](https://hackernoon.com/u/rizwan3d)
 
