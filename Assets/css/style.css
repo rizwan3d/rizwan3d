@@ -6,8 +6,17 @@ hr {
     opacity: unset !important;
 }
 
+a {
+    color: #2E527B !important;
+    text-decoration: none !important;
+}
+
 .bg-primary {   
     background-color: #2E527B !important;
+}
+
+.text-primary{
+    color: #2E527B !important;
 }
 
 .top-bar {
