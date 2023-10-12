@@ -1,0 +1,20 @@
+* h1,h2,h3,h4,h5,h6,p,span,strong,li{
+    font-family: 'Roboto', sans-serif; 
+}
+
+hr {
+    opacity: unset !important;
+}
+
+.bg-primary {   
+    background-color: #2E527B !important;
+}
+
+.top-bar {
+    height: 40px;
+}
+
+.big-line {
+    position: relative;
+    height: 4px;
+}
