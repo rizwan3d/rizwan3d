@@ -1,54 +1,85 @@
 @page {
     size: A4;
     margin: 0;
-  }
+}
 
 @media print {
     body {
-      zoom: 100%;
-      margin: 0;
-      padding: 0;
-      max-width: 210mm !important;
-      width: 210mm !important;
-      min-width: 210mm !important;
+        zoom: 100%;
+        margin: 0;
+        padding: 0;
+        max-width: 210mm !important;
+        width: 210mm !important;
+        min-width: 210mm !important;
     }
+
     h1 {
         font-size: 150%;
     }
+
     h5 {
         font-size: 100%;
     }
-    h2,h3,h4,h6,p,span,strong,li{
+
+    h2,
+    h3,
+    h4,
+    h6,
+    p,
+    span,
+    strong,
+    li {
         font-size: 80%;
     }
-    .top-bar, .buttom-bar{
-        display: block;
+
+    thead {
+        display: table-header-group;
+    }
+
+    tfoot {
+        display: table-footer-group;
+    }
+
+   
+
+    .page-header {
+        display: unset !important;
+    }
+
+    .page-header-space-p {
+        display: block !important;
+    }
+
+    .page-header {
         position: fixed;
-        left:0px;
-        right: 0px;
+        top: 0mm;
+        left: 0;
+        right: 0;
+    }
+
+    .page-footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
     }
 
     .top-bar {
-        top: 0px;
-        z-index: 0;
-    }
-
-    .buttom-bar{
-        bottom: 0px;
-    }
-
-    .print {
-        display: block !important;
-        left:0px;
-        right: 0px;
-        margin-top: 40px;
+        display: none;
     }
 }
 
-
-
-* h1,h2,h3,h4,h5,h6,p,span,strong,li{
-    font-family: 'Roboto', sans-serif; 
+* h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+strong,
+li {
+    font-family: 'Roboto', sans-serif;
 }
 
 hr {
@@ -60,15 +91,19 @@ a {
     text-decoration: none !important;
 }
 
-.bg-primary {   
+table {
+    border-spacing: 0;
+}
+
+.bg-primary {
     background-color: #2E527B !important;
 }
 
-.text-primary{
+.text-primary {
     color: #2E527B !important;
 }
 
-.top-bar, .buttom-bar {
+.top-bar{
     height: 40px;
 }
 
@@ -80,3 +115,18 @@ a {
 .z-top {
     z-index: 9999;
 }
+
+.page-header,
+.page-header-space {
+    height: 40px;
+}
+
+.page-footer,
+.page-footer-space {
+    height: 40px;
+}
+
+.page {
+    break-after: always;
+}
+
