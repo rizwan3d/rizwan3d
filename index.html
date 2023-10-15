@@ -391,6 +391,14 @@
                             </ul>
                         </div>
                         <div class="m-3">
+                            <h5 class="text-bold text-uppercase">Articles <small class="text-primary">(latest
+                                    10)</small></h5>
+                            <hr class="bg-primary big-line" size />
+                            <ul id="articles" class="ms-3">
+
+                            </ul>
+                        </div>
+                        <div class="m-3">
                             <h5 class="text-bold text-uppercase">Education</h5>
                             <hr class="bg-primary big-line" size />
                             <ul class="ms-3">
@@ -419,4 +427,17 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
     crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script>
+    $.ajax({
+        url: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@rizwan3d",
+        type: "GET",
+        success: function (data) {
+            data.items.forEach(el => {
+                $("#articles").append(`<li>${el.title} <a href="${el.guid}"><span class="text-primary">(Medium)</span></a> - ${el.pubDate.split(' ')[0]}`);
+            })
+        }
+    });
+</script>
 </html>
