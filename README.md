@@ -18,6 +18,8 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **allgame45@hotmail.com**
+  
+- Resume: [https://rizwan3d.github.io/rizwan3d/](https://rizwan3d.github.io/rizwan3d/).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
