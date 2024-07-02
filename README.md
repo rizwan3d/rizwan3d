@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://medium.com/@rizwan3d/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks-b6dd3cc13b45?source=rss-685d52defe52------2)
 - [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://medium.com/@rizwan3d/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv-8698fd1024c9?source=rss-685d52defe52------2)
 - [RISC-V: Pioneering Windows Assembly — A New Era in Computing](https://medium.com/@rizwan3d/risc-v-pioneering-windows-assembly-a-new-era-in-computing-edb772b52675?source=rss-685d52defe52------2)
 - [How to Simplify Data Validation in PHP With ValidationMyPhp](https://medium.com/@rizwan3d/how-to-simplify-data-validation-in-php-with-validationmyphp-b7455f7ed4e2?source=rss-685d52defe52------2)
@@ -32,7 +33,6 @@
 - [WebSocket for real-time communication in C# and Typescript — Part 4 &lpar;Security&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-4-security-8fe63b0763a8?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 3 &lpar;Data Serialization&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-3-data-serialization-c4ada68864e7?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 2 &lpar;Authentication&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-2-authentication-b719981ba14f?source=rss-685d52defe52------2)
-- [WebSocket for real-time communication in C# and Typescript — Part 1 &lpar;Connection&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-1-connection-51e17c9090ca?source=rss-685d52defe52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
