@@ -40,7 +40,7 @@
 - [ACID Front-End Developer Learning Session | Day 1 | HTML - Dec 8, 2024](https://www.youtube.com/watch?v=u7Fp6qUojsg)
 - [Unreal Engine 5.1 Urdu/Hindi How to Make AAA Game - Dec 7, 2024](https://www.youtube.com/watch?v=W4Y--mVxLI4)
 - [NET 6 Web API &amp; Entity Framework - Chapter 1 &lpar;CRUD, Repository Pattern, DI, SQL Server &amp; more&rpar; - May 26, 2023](https://www.youtube.com/watch?v=qIf2qtsdTHw)
-- [Work Form Home #csharp #.net #dotnet #visualstudio - May 24, 2023](https://www.youtube.com/watch?v=1lxaIDhs9iE)
+- [Work Form Home #csharp #.net #dotnet #visualstudio - May 24, 2023](https://www.youtube.com/shorts/1lxaIDhs9iE)
 - [C# .Net Core CRUD API Project Setup Part 1 - May 24, 2023](https://www.youtube.com/watch?v=mhReLee0LQU)<!-- YOUTUBE:END -->
 
 
