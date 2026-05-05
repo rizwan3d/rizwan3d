@@ -1,25 +1,68 @@
-<h1 align="center">I'm Muhammad Rizwan</h1>
-<h3 align="center">Navigating the coding cosmos with my arsenal: compilers, assemblers, virtual machines, frameworks, and libraries—a symphony of tech mastery. What's your next epic in the world of code?</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwan3d&label=Profile%20views&color=0e75b6&style=flat" alt="rizwan3d" /> </p>
+<h1 align="center">Hi 👋, I'm Muhammad Rizwan</h1>
 
-![](https://github-profile-trophy.vercel.app/?username=rizwan3d&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="center">
+  Software Engineer · Compiler & VM Enthusiast · AI Agents Explorer
+</h3>
 
-- 🔭 I’m currently working on [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
+<p align="center">
+  I build tools, systems, and learning resources around 
+  <strong>LLMs, AI Agents, RISC-V, compilers, assemblers, virtual machines, C#, .NET, and web technologies.</strong>
+</p>
 
-- 🌱 I’m currently learning **RISC-V, compilers, assemblers, and virtual machines.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizwan3d&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 👯 I’m looking to collaborate on **Research papers and projects centered around compilers, assemblers, and virtual machines.**
+---
 
-- 🤝 I’m looking for help with [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
+## 🚀 About Me
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/rizwan3d](https://hackernoon.com/u/rizwan3d)
+- 🔭 Currently working on [**NanoAgent**](https://github.com/rizwan3d/NanoAgent) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
 
-- 💬 Ask me about **Anything**
+- 🌱 Currently learning and exploring **LLMs, AI Agents, RISC-V, compilers, assemblers, and virtual machines**
 
-- 📫 How to reach me **allgame45@hotmail.com**
-  
-- Resume: [https://rizwan3d.github.io/rizwan3d/](https://rizwan3d.github.io/rizwan3d/).
+- 👯 Open to collaboration on **research papers and engineering projects related to compilers, assemblers, VMs, and AI systems**
+
+- 🤝 Looking for contributors and feedback on [**NanoAgent**](https://github.com/rizwan3d/NanoAgent) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
+
+- 📝 I write technical articles on [HackerNoon](https://hackernoon.com/u/rizwan3d) and [Medium](https://medium.com/@rizwan3d)
+
+- 💬 Ask me about **C#, .NET, RISC-V, compilers, assemblers, AI agents, backend systems, and software architecture**
+
+- 📫 Reach me at **allgame45@hotmail.com**
+
+- 📄 Resume: [https://rizwan3d.github.io/rizwan3d/](https://rizwan3d.github.io/rizwan3d/)
+
+---
+
+## 🧠 Current Focus
+
+```txt
+AI Agents        ██████████░
+LLMs             ██████████░
+RISC-V           █████████░░
+Compilers        ████████░░░
+Assemblers       ████████░░░
+Virtual Machines ███████░░░░
+```
+
+---
+
+## 🌟 Featured Projects
+
+1. [NanoAgent](https://github.com/rizwan3d/NanoAgent) A project focused on exploring lightweight AI agents, automation, and intelligent workflows. <br/>
+2. [SharpRISCV](https://github.com/rizwan3d/SharpRISCV) A C# implementation of RISC-V assembly with support for generating multiple output formats, including BIN, ELF, HEX, console output, and Windows executable experiments. It also includes browser-based RISC-V assembly exploration. <br/>
+3. [Ivory](https://github.com/rizwan3d/Ivory)A fast, single-binary CLI for managing PHP runtimes and Composer workflows per project. Ivory helps isolate PHP versions, run scripts, configure project-level PHP settings, scaffold CI/Docker files, and improve PHP developer experience. <br/>
+4. [MotoGameEngine](https://github.com/rizwan3d/MotoGameEngine)An open-source C# 2D game engine built around SDL, designed for learning, experimentation, and building 2D games on Windows. <br/>
+5. [PhpThoughts](https://github.com/rizwan3d/PhpThoughts)A PHP framework designed for large projects, featuring expressive syntax, attribute-based routing, dependency injection, Doctrine ORM, middleware support, CLI tooling, PSR standards, and onion architecture. <br/>
+6. [ValidationMyPhp](https://github.com/rizwan3d/ValidationMyPhp)A PHP validation utility for validating user-provided data against defined rules and returning clear error messages when validation fails. <br/>
+---
+
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,php,python,html,css,react,angular,nodejs,git,github,docker,linux,visualstudio,vscode" /> </p>
+
+---
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -55,25 +98,11 @@
 <a href="https://discord.gg/https://discord.gg/7J9BFP3eMj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/7J9BFP3eMj" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rizwan3d"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rizwan3d" /></a></p><br><br><br>
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rizwan3d) 
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rizwan3d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rizwan3d&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan3d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rizwan3d&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
