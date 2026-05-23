@@ -65,6 +65,7 @@ Virtual Machines ███████░░░░
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Agents Should Not Hide Memory - Why NanoAgent Stores It in Repo Files](https://medium.com/@rizwan3d/ai-coding-agents-should-not-hide-memory-why-nanoagent-stores-it-in-repo-files-6ccf037d2a52?source=rss-685d52defe52------2)
 - [Untitled Entertainment: Transforming Pakistan’s Valorant Esports Landscape](https://medium.com/@rizwan3d/untitled-entertainment-transforming-pakistans-valorant-esports-landscape-5afb1304fa8a?source=rss-685d52defe52------2)
 - [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://medium.com/@rizwan3d/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks-b6dd3cc13b45?source=rss-685d52defe52------2)
 - [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://medium.com/@rizwan3d/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv-8698fd1024c9?source=rss-685d52defe52------2)
@@ -74,7 +75,6 @@ Virtual Machines ███████░░░░
 - [How to Make Commit Messages  Fun with Gitmoji](https://medium.com/@rizwan3d/how-to-make-commit-messages-fun-with-gitmoji-825ee9659f83?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 5 &lpar;Scaling- Apache Kafka&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-5-scaling-apache-kafka-5f1f4cb786cd?source=rss-685d52defe52------2)
 - [WebSocket for real-time communication in C# and Typescript — Part 4 &lpar;Security&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-4-security-8fe63b0763a8?source=rss-685d52defe52------2)
-- [WebSocket for real-time communication in C# and Typescript — Part 3 &lpar;Data Serialization&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-3-data-serialization-c4ada68864e7?source=rss-685d52defe52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
