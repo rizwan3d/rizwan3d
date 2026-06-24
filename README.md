@@ -79,11 +79,11 @@ Virtual Machines ███████░░░░
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [Live June 24 - Jun 24, 2026](https://www.youtube.com/watch?v=kxXRjxA2jxw)
+- [Making a Keyboard Sound App From Scratch in C# - Jun 24, 2026](https://www.youtube.com/watch?v=aqEb6llT5v0)
 - [ACID Front-End Developer Learning Session | Day 1 | HTML - Dec 8, 2024](https://www.youtube.com/watch?v=u7Fp6qUojsg)
 - [Unreal Engine 5.1 Urdu/Hindi How to Make AAA Game - Dec 7, 2024](https://www.youtube.com/watch?v=W4Y--mVxLI4)
-- [NET 6 Web API &amp; Entity Framework - Chapter 1 &lpar;CRUD, Repository Pattern, DI, SQL Server &amp; more&rpar; - May 26, 2023](https://www.youtube.com/watch?v=qIf2qtsdTHw)
-- [Work Form Home #csharp #.net #dotnet #visualstudio - May 24, 2023](https://www.youtube.com/shorts/1lxaIDhs9iE)
-- [C# .Net Core CRUD API Project Setup Part 1 - May 24, 2023](https://www.youtube.com/watch?v=mhReLee0LQU)<!-- YOUTUBE:END -->
+- [NET 6 Web API &amp; Entity Framework - Chapter 1 &lpar;CRUD, Repository Pattern, DI, SQL Server &amp; more&rpar; - May 26, 2023](https://www.youtube.com/watch?v=qIf2qtsdTHw)<!-- YOUTUBE:END -->
 
 
 # 📊 GitHub Stats:
