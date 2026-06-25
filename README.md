@@ -80,10 +80,10 @@ Virtual Machines ███████░░░░
 ### Youtube videos
 <!-- YOUTUBE:START -->
 - [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=gU2ZFWo3CT4)
-- [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=W4Y--mVxLI4)
-- [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=_GrAwCkHezg)
+- [000 - Jun 25, 2026](https://www.youtube.com/watch?v=_GrAwCkHezg)
 - [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=Tzu6fJ_9z7k)
-- [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=aqEb6llT5v0)<!-- YOUTUBE:END -->
+- [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=aqEb6llT5v0)
+- [ACID Front-End Developer Learning Session | Day 1 | HTML - Dec 8, 2024](https://www.youtube.com/watch?v=u7Fp6qUojsg)<!-- YOUTUBE:END -->
 
 
 # 📊 GitHub Stats:
