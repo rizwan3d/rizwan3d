@@ -84,9 +84,3 @@ Virtual Machines ███████░░░░
 - [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=Tzu6fJ_9z7k)
 - [Making a Keyboard Sound App From Scratch in C# - Jun 25, 2026](https://www.youtube.com/watch?v=aqEb6llT5v0)
 - [ACID Front-End Developer Learning Session | Day 1 | HTML - Dec 8, 2024](https://www.youtube.com/watch?v=u7Fp6qUojsg)<!-- YOUTUBE:END -->
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rizwan3d&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rizwan3d&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan3d&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
