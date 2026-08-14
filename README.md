@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [**NanoAgent**](https://github.com/rizwan3d/NanoAgent) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
+- 🔭 Currently working on [**StemCode**](https://github.com/rizwan3d/StemCode) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
 
 - 🌱 Currently learning and exploring **LLMs, AI Agents, RISC-V, compilers, assemblers, and virtual machines**
 
@@ -50,7 +50,7 @@ Virtual Machines ███████░░░░
 
 ## 🌟 Featured Projects
 
-1. [NanoAgent](https://github.com/rizwan3d/NanoAgent) A project focused on exploring lightweight AI agents, automation, and intelligent workflows. <br/>
+1. [StemCode](https://github.com/rizwan3d/StemCode) A project focused on exploring lightweight AI agents, automation, and intelligent workflows. <br/>
 2. [SharpRISCV](https://github.com/rizwan3d/SharpRISCV) A C# implementation of RISC-V assembly with support for generating multiple output formats, including BIN, ELF, HEX, console output, and Windows executable experiments. It also includes browser-based RISC-V assembly exploration. <br/>
 3. [Ivory](https://github.com/rizwan3d/Ivory)A fast, single-binary CLI for managing PHP runtimes and Composer workflows per project. Ivory helps isolate PHP versions, run scripts, configure project-level PHP settings, scaffold CI/Docker files, and improve PHP developer experience. <br/>
 4. [MotoGameEngine](https://github.com/rizwan3d/MotoGameEngine)An open-source C# 2D game engine built around SDL, designed for learning, experimentation, and building 2D games on Windows. <br/>
