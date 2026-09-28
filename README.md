@@ -9,10 +9,6 @@
   <strong>LLMs, AI Agents, RISC-V, compilers, assemblers, virtual machines, C#, .NET, and web technologies.</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizwan3d&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -23,7 +19,7 @@
 
 - 👯 Open to collaboration on **research papers and engineering projects related to compilers, assemblers, VMs, and AI systems**
 
-- 🤝 Looking for contributors and feedback on [**NanoAgent**](https://github.com/rizwan3d/NanoAgent) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
+- 🤝 Looking for contributors and feedback on [**StemCode**](https://github.com/rizwan3d/StemCode) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
 
 - 📝 I write technical articles on [HackerNoon](https://hackernoon.com/u/rizwan3d) and [Medium](https://medium.com/@rizwan3d)
 
