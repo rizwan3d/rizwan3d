@@ -21,7 +21,8 @@
 
 - 🤝 Looking for contributors and feedback on [**StemCode**](https://github.com/rizwan3d/StemCode) and [**SharpRISCV**](https://github.com/rizwan3d/SharpRISCV)
 
-- 📝 I write technical articles on [HackerNoon](https://hackernoon.com/u/rizwan3d) and [Medium](https://medium.com/@rizwan3d)
+- 📝 I write technical articles on [my software engineering blog](https://rizwan3d.xyz/), [HackerNoon](https://hackernoon.com/u/rizwan3d), and [Medium](https://medium.com/@rizwan3d)
+- 📚 Recent tutorials: [Writing a RISC-V assembler](https://rizwan3d.xyz/posts/hard-part-of-writing-a-risc-v-assembler) · [AI coding agent memory in repo files](https://rizwan3d.xyz/posts/ai-coding-agents-should-not-hide-memory-why-stemcode-stores-it-in-repo-files) · [PHP validation with ValidationMyPhp](https://rizwan3d.xyz/posts/how-to-simplify-data-validation-in-php-with-validationmyphp)
 
 - 💬 Ask me about **C#, .NET, RISC-V, compilers, assemblers, AI agents, backend systems, and software architecture**
 
