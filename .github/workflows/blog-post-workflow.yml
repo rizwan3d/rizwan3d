@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
-          feed_list: "https://medium.com/feed/@rizwan3d"
+          feed_list: "https://rizwan3d.xyz/rss.xml"
 
