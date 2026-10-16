@@ -62,16 +62,16 @@ Virtual Machines ███████░░░░
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Hard Part of Writing a RISC-V Assembler Isn’t Parsing Assembly](https://medium.com/@rizwan3d/the-hard-part-of-writing-a-risc-v-assembler-isnt-parsing-assembly-0017cc54aa26?source=rss-685d52defe52------2)
-- [AI Coding Agents Should Not Hide Memory - Why NanoAgent Stores It in Repo Files](https://medium.com/@rizwan3d/ai-coding-agents-should-not-hide-memory-why-nanoagent-stores-it-in-repo-files-6ccf037d2a52?source=rss-685d52defe52------2)
-- [Untitled Entertainment: Transforming Pakistan’s Valorant Esports Landscape](https://medium.com/@rizwan3d/untitled-entertainment-transforming-pakistans-valorant-esports-landscape-5afb1304fa8a?source=rss-685d52defe52------2)
-- [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://medium.com/@rizwan3d/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks-b6dd3cc13b45?source=rss-685d52defe52------2)
-- [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://medium.com/@rizwan3d/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv-8698fd1024c9?source=rss-685d52defe52------2)
-- [RISC-V: Pioneering Windows Assembly — A New Era in Computing](https://medium.com/@rizwan3d/risc-v-pioneering-windows-assembly-a-new-era-in-computing-edb772b52675?source=rss-685d52defe52------2)
-- [How to Simplify Data Validation in PHP With ValidationMyPhp](https://medium.com/@rizwan3d/how-to-simplify-data-validation-in-php-with-validationmyphp-b7455f7ed4e2?source=rss-685d52defe52------2)
-- [Learning RISC-V Assembly Language by Building an Assembler in C#](https://medium.com/@rizwan3d/learning-risc-v-assembly-language-by-building-an-assembler-in-c-cc991fd2831e?source=rss-685d52defe52------2)
-- [How to Make Commit Messages  Fun with Gitmoji](https://medium.com/@rizwan3d/how-to-make-commit-messages-fun-with-gitmoji-825ee9659f83?source=rss-685d52defe52------2)
-- [WebSocket for real-time communication in C# and Typescript — Part 5 &lpar;Scaling- Apache Kafka&rpar;](https://medium.com/@rizwan3d/websocket-for-real-time-communication-in-c-and-typescript-part-5-scaling-apache-kafka-5f1f4cb786cd?source=rss-685d52defe52------2)
+- [Zero-GC Programming and Unmanaged Memory: Engineering High-Performance Applications in Modern .NET](https://rizwan3d.xyz/posts/zero-gc-programming-unmanaged-memory-high-performance-dotnet)
+- [C# Performance Under the Microscope: JIT, Memory, and a Benchmark That Can Fail](https://rizwan3d.xyz/posts/csharp-performance-under-the-microscope-jit-memory-and-a-benchmark-that-can-fail)
+- [Performance-Aware Programming in C#](https://rizwan3d.xyz/posts/performance-aware-programming-in-csharp)
+- [Website-associated Obfuscated CMD: Full Static Investigation](https://rizwan3d.xyz/posts/website-associated-obfuscated-cmd-full-static-investigation)
+- [The Hard Part of Writing a RISC-V Assembler Isn&#39;t Parsing Assembly](https://rizwan3d.xyz/posts/hard-part-of-writing-a-risc-v-assembler)
+- [AI Coding Agents Should Not Hide Memory - Why Stemcode Stores It in Repo Files](https://rizwan3d.xyz/posts/ai-coding-agents-should-not-hide-memory-why-stemcode-stores-it-in-repo-files)
+- [Untitled Entertainment: Transforming Pakistan&#39;s Valorant Esports Landscape](https://rizwan3d.xyz/posts/untitled-entertainment-transforming-pakistan-s-valorant-esports-landscape)
+- [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://rizwan3d.xyz/posts/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks)
+- [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://rizwan3d.xyz/posts/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv)
+- [How to Simplify Data Validation in PHP With ValidationMyPhp](https://rizwan3d.xyz/posts/how-to-simplify-data-validation-in-php-with-validationmyphp)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
