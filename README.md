@@ -32,19 +32,6 @@
 
 ---
 
-## 🤖 AI & the Future of Marketing Agents
-
-I'm exploring how **LLM-powered AI agents** can change digital marketing from repetitive manual tasks into coordinated, human-supervised workflows:
-
-- **Audience research & campaign planning:** organize insights, generate ideas, and support campaign briefs.
-- **Content & engagement:** assist with drafting, adaptation, and personalized customer communications.
-- **Lead workflows & analytics:** support lead qualification, follow-ups, reporting, and campaign improvement.
-- **Responsible automation:** use tool integrations, evaluations, privacy safeguards, and human approval for consequential actions.
-
-My engineering focus is on the foundations that make these systems dependable: **LLMs, tool calling, agent orchestration, APIs, and extensible workflows**. [NanoAgent](https://github.com/rizwan3d/NanoAgent) is one example of my work on general-purpose AI-agent automation.
-
----
-
 ## 🧠 Current Focus
 
 ```txt
