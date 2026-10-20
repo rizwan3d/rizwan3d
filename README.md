@@ -62,6 +62,7 @@ Virtual Machines ███████░░░░
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Every Allocation Won&#39;t Save a .NET Application That Accepts Unlimited Work](https://rizwan3d.xyz/posts/optimizing-every-allocation-wont-save-a-dotnet-application-that-accepts-unlimited-work)
 - [Zero-GC Programming and Unmanaged Memory: Engineering High-Performance Applications in Modern .NET](https://rizwan3d.xyz/posts/zero-gc-programming-unmanaged-memory-high-performance-dotnet)
 - [C# Performance Under the Microscope: JIT, Memory, and a Benchmark That Can Fail](https://rizwan3d.xyz/posts/csharp-performance-under-the-microscope-jit-memory-and-a-benchmark-that-can-fail)
 - [Performance-Aware Programming in C#](https://rizwan3d.xyz/posts/performance-aware-programming-in-csharp)
@@ -71,7 +72,6 @@ Virtual Machines ███████░░░░
 - [Untitled Entertainment: Transforming Pakistan&#39;s Valorant Esports Landscape](https://rizwan3d.xyz/posts/untitled-entertainment-transforming-pakistan-s-valorant-esports-landscape)
 - [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://rizwan3d.xyz/posts/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks)
 - [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://rizwan3d.xyz/posts/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv)
-- [How to Simplify Data Validation in PHP With ValidationMyPhp](https://rizwan3d.xyz/posts/how-to-simplify-data-validation-in-php-with-validationmyphp)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
