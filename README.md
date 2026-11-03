@@ -62,6 +62,7 @@ Virtual Machines ███████░░░░
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Async/Await Doesn&#39;t Create a New Thread. So What Does It Actually Do in C#?](https://rizwan3d.xyz/posts/async-await-doesnt-create-a-new-thread-what-does-it-actually-do-in-csharp)
 - [Optimizing Every Allocation Won&#39;t Save a .NET Application That Accepts Unlimited Work](https://rizwan3d.xyz/posts/optimizing-every-allocation-wont-save-a-dotnet-application-that-accepts-unlimited-work)
 - [Zero-GC Programming and Unmanaged Memory: Engineering High-Performance Applications in Modern .NET](https://rizwan3d.xyz/posts/zero-gc-programming-unmanaged-memory-high-performance-dotnet)
 - [C# Performance Under the Microscope: JIT, Memory, and a Benchmark That Can Fail](https://rizwan3d.xyz/posts/csharp-performance-under-the-microscope-jit-memory-and-a-benchmark-that-can-fail)
@@ -71,7 +72,6 @@ Virtual Machines ███████░░░░
 - [AI Coding Agents Should Not Hide Memory - Why Stemcode Stores It in Repo Files](https://rizwan3d.xyz/posts/ai-coding-agents-should-not-hide-memory-why-stemcode-stores-it-in-repo-files)
 - [Untitled Entertainment: Transforming Pakistan&#39;s Valorant Esports Landscape](https://rizwan3d.xyz/posts/untitled-entertainment-transforming-pakistan-s-valorant-esports-landscape)
 - [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://rizwan3d.xyz/posts/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks)
-- [Exploring RISC-V Assembly in the Web Browser with SharpRISCV](https://rizwan3d.xyz/posts/exploring-risc-v-assembly-in-the-web-browser-with-sharpriscv)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
