@@ -62,6 +62,7 @@ Virtual Machines ███████░░░░
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a 135M-Parameter Language Model with C# and Python](https://rizwan3d.xyz/posts/build-135m-language-model-csharp-python)
 - [Async/Await Doesn&#39;t Create a New Thread. So What Does It Actually Do in C#?](https://rizwan3d.xyz/posts/async-await-doesnt-create-a-new-thread-what-does-it-actually-do-in-csharp)
 - [Optimizing Every Allocation Won&#39;t Save a .NET Application That Accepts Unlimited Work](https://rizwan3d.xyz/posts/optimizing-every-allocation-wont-save-a-dotnet-application-that-accepts-unlimited-work)
 - [Zero-GC Programming and Unmanaged Memory: Engineering High-Performance Applications in Modern .NET](https://rizwan3d.xyz/posts/zero-gc-programming-unmanaged-memory-high-performance-dotnet)
@@ -71,7 +72,6 @@ Virtual Machines ███████░░░░
 - [The Hard Part of Writing a RISC-V Assembler Isn&#39;t Parsing Assembly](https://rizwan3d.xyz/posts/hard-part-of-writing-a-risc-v-assembler)
 - [AI Coding Agents Should Not Hide Memory - Why Stemcode Stores It in Repo Files](https://rizwan3d.xyz/posts/ai-coding-agents-should-not-hide-memory-why-stemcode-stores-it-in-repo-files)
 - [Untitled Entertainment: Transforming Pakistan&#39;s Valorant Esports Landscape](https://rizwan3d.xyz/posts/untitled-entertainment-transforming-pakistan-s-valorant-esports-landscape)
-- [Exceeding Expectations: How I Earned a Star Performer Award with Just Five Tasks](https://rizwan3d.xyz/posts/exceeding-expectations-how-i-earned-a-star-performer-award-with-just-five-tasks)
 <!-- BLOG-POST-LIST:END -->
 
 ### Youtube videos
